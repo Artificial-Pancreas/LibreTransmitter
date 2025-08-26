@@ -74,7 +74,6 @@ let package = Package(
             ],
             path: "LibreTransmitter"
         ),
-
         .target(
             name: "LibreTransmitterUI",
             dependencies: [
@@ -84,5 +83,85 @@ let package = Package(
             ],
             path: "LibreTransmitterUI"
         ),
+        .target(
+            name: "G7SensorKit",
+            dependencies: [
+                "G7SensorKit",
+                .product(name: "G7SensorKit", package: "G7SensorKit"),
+            ],
+            path: "G7SensorKit"
+        ),
+        .target(
+            name: "CGMBLEKit",
+            dependencies: [
+                "CGMBLEKit",
+                .product(name: "CGMBLEKit", package: "CGMBLEKit"),
+            ],
+            path: "CGMBLEKit"
+        ),
+         .target(
+            name: "dexcom-share-client-swift",
+            dependencies: [
+                "dexcom-share-client-swift",
+                .product(name: "dexcom-share-client-swift", package: "dexcom-share-client-swift"),
+            ],
+            path: "dexcom-share-client-swift"
+        ),
+        .target(
+            name: "MKRingProgressView",
+            dependencies: [
+                "MKRingProgressView",
+                .product(name: "MKRingProgressView", package: "MKRingProgressView"),
+            ],
+            path: "MKRingProgressView
+        ),
+        .target(
+            name: "RileyLinkKit",
+            dependencies: [
+                "RileyLinkKit",
+                .product(name: "RileyLinkKit", package: "RileyLinkKit"),
+            ],
+            path: "RileyLinkKit
+        ),
+         .target(
+            name: "OmniBLE",
+            dependencies: [
+                "OmniBLE",
+                .product(name: "OmniBLE", package: "OmniBLE"),
+            ],
+            path: "OmniBLE
+        ),
+         .target(
+            name: "OmniKit",
+            dependencies: [
+                "OmniKit",
+                .product(name: "OmniKit", package: "OmniKit"),
+            ],
+            path: "OmniKit
+        ),
+        .target(
+            name: "MinimedKit",
+            dependencies: [
+                "MinimedKit",
+                .product(name: "MinimedKit", package: "MinimedKit"),
+            ],
+            path: "MinimedKit
+        ),
+        .target(
+            name: "DanaKit",
+            dependencies: [
+                "DanaKit",
+                .product(name: "DanaKit", package: "DanaKit"),
+            ],
+            path: "DanaKit
+        ),
+        .target(
+            name: "TidepoolService",
+            dependencies: [
+                "TidepoolService",
+                .product(name: "TidepoolService", package: "TidepoolService"),
+            ],
+            path: "TidepoolService
+        )
     ]
 )
