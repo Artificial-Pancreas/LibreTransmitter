@@ -16,44 +16,44 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/LoopKit/G7SensorKit",
+           branch: "main"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/CGMBLEKit",
            branch: "dev"
         ),
         .package(
-            url: "https://github.com/LoopKit/CGMBLEKit/",
+            url: "https://github.com/LoopKit/dexcom-share-client-swift",
            branch: "dev"
         ),
         .package(
-            url: "https://github.com/LoopKit/dexcom-share-client-swift/",
+            url: "https://github.com/LoopKit/MKRingProgressView",
            branch: "dev"
         ),
         .package(
-            url: "https://github.com/LoopKit/MKRingProgressView/",
+            url: "https://github.com/LoopKit/RileyLinkKit",
            branch: "dev"
         ),
         .package(
-            url: "https://github.com/LoopKit/RileyLinkKit/",
+            url: "https://github.com/LoopKit/OmniBLE",
            branch: "dev"
         ),
         .package(
-            url: "https://github.com/LoopKit/OmniBLE/",
+            url: "https://github.com/LoopKit/OmniKit",
+           branch: "main"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/MinimedKit",
+           branch: "main"
+        ),
+        .package(
+            url: "https://github.com/bastiaanv/DanaKit",
            branch: "dev"
         ),
         .package(
-            url: "https://github.com/LoopKit/OmniKit/",
+            url: "https://github.com/LoopKit/TidepoolService",
            branch: "dev"
-        ),
-        .package(
-            url: "https://github.com/LoopKit/MinimedKit/",
-           branch: "dev"
-        ),
-        .package(
-            url: "https://github.com/LoopKit/DanaKit/",
-           branch: "dev"
-        ),
-        .package(
-            url: "https://github.com/LoopKit/TidepoolService/",
-           branch: "dev"
-        ) 
+        )
     ],
     targets: [
         .binaryTarget(
