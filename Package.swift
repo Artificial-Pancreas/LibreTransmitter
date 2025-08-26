@@ -13,7 +13,47 @@ let package = Package(
         .package(
            url: "https://github.com/LoopKit/LoopKit",
            branch: "dev"
-        )
+        ),
+        .package(
+            url: "https://github.com/LoopKit/G7SensorKit",
+           branch: "dev"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/CGMBLEKit/",
+           branch: "dev"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/dexcom-share-client-swift/",
+           branch: "dev"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/MKRingProgressView/",
+           branch: "dev"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/RileyLinkKit/",
+           branch: "dev"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/OmniBLE/",
+           branch: "dev"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/OmniKit/",
+           branch: "dev"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/MinimedKit/",
+           branch: "dev"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/DanaKit/",
+           branch: "dev"
+        ),
+        .package(
+            url: "https://github.com/LoopKit/TidepoolService/",
+           branch: "dev"
+        ) 
     ],
     targets: [
         .binaryTarget(
