@@ -114,8 +114,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not decrypt sensor contents"
+            "state" : "translated",
+            "value" : "Не вдалося розшифрувати вміст Сенсору"
           }
         },
         "vi" : {
@@ -251,8 +251,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get patch info"
+            "state" : "translated",
+            "value" : "Не вдалося отримати інформацію про патч"
           }
         },
         "vi" : {
@@ -388,8 +388,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get sensor data"
+            "state" : "translated",
+            "value" : "Не вдалося отримати дані Сенсору"
           }
         },
         "vi" : {
@@ -525,8 +525,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get tag info"
+            "state" : "translated",
+            "value" : "Не вдалося отримати інформацію про тег"
           }
         },
         "vi" : {
@@ -1360,8 +1360,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Needs Attention"
+            "state" : "translated",
+            "value" : "Потребує уваги"
           }
         },
         "vi" : {
@@ -1641,8 +1641,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Phone NFC not supported!"
+            "state" : "translated",
+            "value" : "Телефон NFC не підтримується!"
           }
         },
         "vi" : {
@@ -1915,8 +1915,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong sensor type detected"
+            "state" : "translated",
+            "value" : "Виявлено неправильний тип Сенсору"
           }
         },
         "vi" : {
