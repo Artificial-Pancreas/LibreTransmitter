@@ -201,7 +201,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@"
           }
         },
@@ -474,7 +474,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld%%"
           }
         },
@@ -510,7 +510,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld%%"
           }
         },
@@ -611,8 +611,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Activate and finish warming up a new sensor with another app or physical reader."
+            "state" : "translated",
+            "value" : "Activeer en beëindig de opwarming van een nieuwe sensor met een andere app of fysieke lezer."
           }
         },
         "pl" : {
@@ -647,8 +647,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Activate and finish warming up a new sensor with another app or physical reader."
+            "state" : "translated",
+            "value" : "Aktivera och avsluta uppvärmningen av en ny sensor med en annan app eller en fysisk läsare."
           }
         },
         "tr" : {
@@ -747,8 +747,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Active from - to "
+            "state" : "translated",
+            "value" : "Actief van - tot "
           }
         },
         "pl" : {
@@ -783,8 +783,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Active from - to "
+            "state" : "translated",
+            "value" : "Aktiv från - till "
           }
         },
         "tr" : {
@@ -1293,8 +1293,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Alarm Settings"
+            "state" : "translated",
+            "value" : "Alarminstellingen"
           }
         },
         "pl" : {
@@ -1329,8 +1329,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Alarm Settings"
+            "state" : "translated",
+            "value" : "Larminställningar"
           }
         },
         "tr" : {
@@ -1711,8 +1711,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to remove this cgm from loop?"
+            "state" : "translated",
+            "value" : "Weet je zeker dat je deze CGM uit de lijst wilt verwijderen?"
           }
         },
         "pl" : {
@@ -1747,8 +1747,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to remove this cgm from loop?"
+            "state" : "translated",
+            "value" : "Är du säker på att du vill ta bort denna CGM?"
           }
         },
         "tr" : {
@@ -1848,8 +1848,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticate"
+            "state" : "translated",
+            "value" : "Authenticeren"
           }
         },
         "pl" : {
@@ -1884,8 +1884,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticate"
+            "state" : "translated",
+            "value" : "Autentisera"
           }
         },
         "tr" : {
@@ -1985,8 +1985,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticated"
+            "state" : "translated",
+            "value" : "Geauthenticeerd"
           }
         },
         "pl" : {
@@ -2021,8 +2021,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticated"
+            "state" : "translated",
+            "value" : "Autentiserad"
           }
         },
         "tr" : {
@@ -2531,8 +2531,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Details"
+            "state" : "translated",
+            "value" : "Calibratie details"
           }
         },
         "pl" : {
@@ -2567,8 +2567,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Details"
+            "state" : "translated",
+            "value" : "Kalibreringsdetaljer"
           }
         },
         "tr" : {
@@ -2667,8 +2667,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Edit"
+            "state" : "translated",
+            "value" : "Calibratie bewerken"
           }
         },
         "pl" : {
@@ -2703,8 +2703,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Edit"
+            "state" : "translated",
+            "value" : "Redigera kalibrering"
           }
         },
         "tr" : {
@@ -3215,8 +3215,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection options"
+            "state" : "translated",
+            "value" : "Verbindingsopties"
           }
         },
         "pl" : {
@@ -3251,8 +3251,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection options"
+            "state" : "translated",
+            "value" : "Anslutningsalternativ"
           }
         },
         "tr" : {
@@ -3495,8 +3495,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarm volume"
+            "state" : "translated",
+            "value" : "Kritiek alarm volume"
           }
         },
         "pl" : {
@@ -3531,8 +3531,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarm volume"
+            "state" : "translated",
+            "value" : "Kritisk larmvolym"
           }
         },
         "tr" : {
@@ -3631,8 +3631,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarms will always be sent with volume at minimum 60%"
+            "state" : "translated",
+            "value" : "Kritieke alarmen worden altijd verzonden met een volume van minimaal 60%"
           }
         },
         "pl" : {
@@ -3667,8 +3667,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarms will always be sent with volume at minimum 60%"
+            "state" : "translated",
+            "value" : "Kritiska larm kommer alltid att skickas med volym på minst 60%"
           }
         },
         "tr" : {
@@ -4597,8 +4597,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Info"
+            "state" : "translated",
+            "value" : "Apparaat info"
           }
         },
         "pl" : {
@@ -4633,8 +4633,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Info"
+            "state" : "translated",
+            "value" : "Enhetsinformation"
           }
         },
         "tr" : {
@@ -4734,8 +4734,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect & Continue Setup"
+            "state" : "translated",
+            "value" : "Verbinding verbreken en doorgaan met setup"
           }
         },
         "pl" : {
@@ -4770,8 +4770,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect & Continue Setup"
+            "state" : "translated",
+            "value" : "Koppla från och fortsätt installationen"
           }
         },
         "tr" : {
@@ -4871,8 +4871,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect and unpair any other app or device communicating with the sensor via bluetooth."
+            "state" : "translated",
+            "value" : "Ontkoppel de verbinding met andere apps of apparaten met de sensor via bluetooth."
           }
         },
         "pl" : {
@@ -4907,8 +4907,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect and unpair any other app or device communicating with the sensor via bluetooth."
+            "state" : "translated",
+            "value" : "Koppla från parkoppling med andra appar eller enheter som kommunicerar med sensorn via bluetooth."
           }
         },
         "tr" : {
@@ -5280,8 +5280,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fair warning: The sensor will be not be using the manufacturer's algorithm, and some safety mitigations present in the manufacturers algorithm might be missing when you use this."
+            "state" : "translated",
+            "value" : "Let op: De sensor gebruikt het algoritme van de fabrikant niet, en sommige veiligheidsmitigaties in het algoritme van de fabrikanten ontbreken misschien wanneer je dit gebruikt."
           }
         },
         "pl" : {
@@ -5316,8 +5316,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fair warning: The sensor will be not be using the manufacturer's algorithm, and some safety mitigations present in the manufacturers algorithm might be missing when you use this."
+            "state" : "translated",
+            "value" : "Varning: Sensorn kommer inte att använda tillverkarens algoritm och vissa säkerhetsåtgärder, som finns i tillverkarnas algoritm, kan saknas när du använder detta."
           }
         },
         "tr" : {
@@ -5417,8 +5417,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Found devices:"
+            "state" : "translated",
+            "value" : "Gevonden apparaten:"
           }
         },
         "pl" : {
@@ -5453,8 +5453,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Found devices:"
+            "state" : "translated",
+            "value" : "Hittade enheter:"
           }
         },
         "tr" : {
@@ -6791,8 +6791,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Keep phone unlocked and your Loop app in the foreground."
+            "state" : "translated",
+            "value" : "Houd je telefoon ontgrendeld en je Loop app op de voorgrond."
           }
         },
         "pl" : {
@@ -6827,8 +6827,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Keep phone unlocked and your Loop app in the foreground."
+            "state" : "translated",
+            "value" : "Håll telefonen upplåst och din app i förgrunden."
           }
         },
         "tr" : {
@@ -7482,8 +7482,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Libre 2 Setup"
+            "state" : "translated",
+            "value" : "Libre 2 setup"
           }
         },
         "pl" : {
@@ -7518,8 +7518,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Libre 2 Setup"
+            "state" : "translated",
+            "value" : "Libre 2 - inställning"
           }
         },
         "tr" : {
@@ -8577,8 +8577,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Most libre 1 and libre 2 sensors are supported, except North America Libre 2; see readme.md for details."
+            "state" : "translated",
+            "value" : "De meeste Libre 1 en 2 sensoren worden ondersteund, behalve Noord-Amerika Libre 2; zie readme.md voor details."
           }
         },
         "pl" : {
@@ -8613,8 +8613,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Most libre 1 and libre 2 sensors are supported, except North America Libre 2; see readme.md for details."
+            "state" : "translated",
+            "value" : "De flesta libre 1 - och libre 2 - sensorer stöds, utom Nordamerika Libre 2, se readme.md för detaljer."
           }
         },
         "tr" : {
@@ -8713,8 +8713,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Device Setup"
+            "state" : "translated",
+            "value" : "Instellen van nieuw apparaat"
           }
         },
         "pl" : {
@@ -8749,8 +8749,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Device Setup"
+            "state" : "translated",
+            "value" : "Ny enhetsinställning"
           }
         },
         "tr" : {
@@ -8850,8 +8850,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Connection: "
+            "state" : "translated",
+            "value" : "Geen verbinding: "
           }
         },
         "pl" : {
@@ -8886,8 +8886,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Connection: "
+            "state" : "translated",
+            "value" : "Ingen anslutning: "
           }
         },
         "tr" : {
@@ -8986,8 +8986,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Notification"
+            "state" : "translated",
+            "value" : "Melding"
           }
         },
         "pl" : {
@@ -9022,8 +9022,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Notification"
+            "state" : "translated",
+            "value" : "Avisering"
           }
         },
         "tr" : {
@@ -9404,8 +9404,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pair Sensor"
+            "state" : "translated",
+            "value" : "Sensor koppelen"
           }
         },
         "pl" : {
@@ -9440,8 +9440,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pair Sensor"
+            "state" : "translated",
+            "value" : "Parkoppla sensor"
           }
         },
         "tr" : {
@@ -9822,8 +9822,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause Glucose alarms"
+            "state" : "translated",
+            "value" : "Glucose alarmen pauzeren"
           }
         },
         "pl" : {
@@ -9858,8 +9858,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause Glucose alarms"
+            "state" : "translated",
+            "value" : "Pausa glukosalarm"
           }
         },
         "tr" : {
@@ -10095,8 +10095,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Press the Authenticate Button."
+            "state" : "translated",
+            "value" : "Druk op de authenticatie-knop."
           }
         },
         "pl" : {
@@ -10131,8 +10131,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Press the Authenticate Button."
+            "state" : "translated",
+            "value" : "Tryck på autentiseraknappen."
           }
         },
         "tr" : {
@@ -10232,8 +10232,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Proceed to pair new sensor in the next screens. Note that you will loose connection to any existing sensor or transmitter"
+            "state" : "translated",
+            "value" : "Ga door met het koppelen van nieuwe sensor in de volgende schermen. Let op dat je de verbinding met een bestaande sensor verliest"
           }
         },
         "pl" : {
@@ -10268,8 +10268,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Proceed to pair new sensor in the next screens. Note that you will loose connection to any existing sensor or transmitter"
+            "state" : "translated",
+            "value" : "Fortsätt att parkoppla ny sensor i nästa skärm. Observera att du kommer att förlora anslutningen till alla befintliga sensorer eller sändare"
           }
         },
         "tr" : {
@@ -10369,8 +10369,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Remote data storage"
+            "state" : "translated",
+            "value" : "Externe gegevensopslag"
           }
         },
         "pl" : {
@@ -10405,8 +10405,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Remote data storage"
+            "state" : "translated",
+            "value" : "Fjärrdatalagring"
           }
         },
         "tr" : {
@@ -10505,8 +10505,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace sensor immediately to continue receving glucose values"
+            "state" : "translated",
+            "value" : "Vervang onmiddelijk je sensor om door te gaan met het herstellen van glucosewaarden"
           }
         },
         "pl" : {
@@ -10541,8 +10541,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace sensor immediately to continue receving glucose values"
+            "state" : "translated",
+            "value" : "Ersätt omedelbart sensorn för att fortsätta mottaga glukosvärden"
           }
         },
         "tr" : {
@@ -11053,8 +11053,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select the type of setup you want."
+            "state" : "translated",
+            "value" : "Kies het setuptype dat je wilt."
           }
         },
         "pl" : {
@@ -11089,8 +11089,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select the type of setup you want."
+            "state" : "translated",
+            "value" : "Välj vilken typ av inställning du vill ha."
           }
         },
         "tr" : {
@@ -11362,8 +11362,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor expires in "
+            "state" : "translated",
+            "value" : "Sensorn upphör om "
           }
         },
         "tr" : {
@@ -11634,8 +11634,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor is expired"
+            "state" : "translated",
+            "value" : "Sensors livslängd är slut"
           }
         },
         "tr" : {
@@ -12008,8 +12008,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor should be activated and fully warmed up."
+            "state" : "translated",
+            "value" : "Sensor moet geactiveerd en volledig opgewarmd zijn."
           }
         },
         "pl" : {
@@ -12044,8 +12044,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor should be activated and fully warmed up."
+            "state" : "translated",
+            "value" : "Sensorn bör ha aktiverats och ha värmts upp helt."
           }
         },
         "tr" : {
@@ -12289,7 +12289,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Server"
           }
         },
@@ -12325,7 +12325,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Server"
           }
         },
@@ -12562,8 +12562,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The Bluetooth connection will take up to four minutes before it starts working."
+            "state" : "translated",
+            "value" : "De Bluetooth-verbinding neemt tot vier minuten in beslag."
           }
         },
         "pl" : {
@@ -12598,8 +12598,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The Bluetooth connection will take up to four minutes before it starts working."
+            "state" : "translated",
+            "value" : "Bluetooth-anslutningen tar upp till fyra minuter innan den börjar fungera."
           }
         },
         "tr" : {
@@ -12699,8 +12699,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "There is no undo. Deleting requires authentication!"
+            "state" : "translated",
+            "value" : "Dit kan niet ongedaan worden gemaakt. Verwijderen vereist authenticatie!"
           }
         },
         "pl" : {
@@ -12735,8 +12735,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "There is no undo. Deleting requires authentication!"
+            "state" : "translated",
+            "value" : "Det går inte att ångra. Radering kräver autentisering!"
           }
         },
         "tr" : {
@@ -12836,8 +12836,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "To "
+            "state" : "translated",
+            "value" : "Tot "
           }
         },
         "pl" : {
@@ -12872,8 +12872,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "To "
+            "state" : "translated",
+            "value" : "Till "
           }
         },
         "tr" : {
@@ -13253,8 +13253,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Upload to remote data service"
+            "state" : "translated",
+            "value" : "Uploaden naar externe gegevensservice"
           }
         },
         "pl" : {
@@ -13289,8 +13289,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Upload to remote data service"
+            "state" : "translated",
+            "value" : "Ladda upp till fjärrdatatjänsten"
           }
         },
         "tr" : {
@@ -13397,7 +13397,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "US"
           }
         },
@@ -13678,8 +13678,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Valid for footer: "
+            "state" : "translated",
+            "value" : "Geldig voor voettekst: "
           }
         },
         "pl" : {
@@ -13714,8 +13714,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Valid for footer: "
+            "state" : "translated",
+            "value" : "Giltig för sidfot: "
           }
         },
         "tr" : {
@@ -13950,8 +13950,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "View factory calibrations"
+            "state" : "translated",
+            "value" : "Bekijk fabriekskalibraties"
           }
         },
         "pl" : {
@@ -13986,8 +13986,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "View factory calibrations"
+            "state" : "translated",
+            "value" : "Visa fabrikskalibreringar"
           }
         },
         "tr" : {
@@ -14087,8 +14087,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your sensor must be activated and fully warmed up."
+            "state" : "translated",
+            "value" : "Sensor moet geactiveerd en volledig opgewarmd zijn."
           }
         },
         "pl" : {
@@ -14123,8 +14123,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your sensor must be activated and fully warmed up."
+            "state" : "translated",
+            "value" : "Sensorn måste ha aktiverats och ha värmts upp helt."
           }
         },
         "tr" : {
