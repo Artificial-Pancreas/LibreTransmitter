@@ -66,8 +66,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not decrypt sensor contents"
+            "state" : "translated",
+            "value" : "Kan sensorinhoud niet decoderen"
           }
         },
         "pl" : {
@@ -102,8 +102,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not decrypt sensor contents"
+            "state" : "translated",
+            "value" : "Kunde inte dekryptera sensorns innehåll"
           }
         },
         "tr" : {
@@ -203,8 +203,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get patch info"
+            "state" : "translated",
+            "value" : "Kan patch-informatie niet ophalen"
           }
         },
         "pl" : {
@@ -239,8 +239,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get patch info"
+            "state" : "translated",
+            "value" : "Kunde inte hämta patchinformation"
           }
         },
         "tr" : {
@@ -340,8 +340,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get sensor data"
+            "state" : "translated",
+            "value" : "Kan sensorgegevens niet ophalen"
           }
         },
         "pl" : {
@@ -376,8 +376,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get sensor data"
+            "state" : "translated",
+            "value" : "Kunde inte hämta sensordata"
           }
         },
         "tr" : {
@@ -477,8 +477,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get tag info"
+            "state" : "translated",
+            "value" : "Kan geen tag informatie ophalen"
           }
         },
         "pl" : {
@@ -513,8 +513,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get tag info"
+            "state" : "translated",
+            "value" : "Kunde inte hämta tagginfo"
           }
         },
         "tr" : {
@@ -1593,8 +1593,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Phone NFC not supported!"
+            "state" : "translated",
+            "value" : "Telefoon NFC niet ondersteund!"
           }
         },
         "pl" : {
@@ -1629,8 +1629,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Phone NFC not supported!"
+            "state" : "translated",
+            "value" : "Telefon-NFC stöds inte!"
           }
         },
         "tr" : {
@@ -1867,8 +1867,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong sensor type detected"
+            "state" : "translated",
+            "value" : "Verkeerd sensortype gedetecteerd"
           }
         },
         "pl" : {
@@ -1903,8 +1903,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong sensor type detected"
+            "state" : "translated",
+            "value" : "Fel sensortyp upptäckt"
           }
         },
         "tr" : {
