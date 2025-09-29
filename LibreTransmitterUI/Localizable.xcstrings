@@ -522,7 +522,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld%%"
           }
         },
@@ -659,8 +659,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Activate and finish warming up a new sensor with another app or physical reader."
+            "state" : "translated",
+            "value" : "Активуйте та завершіть розігрів нового Сенсору за допомогою іншого застосунку або фізичного зчитувача."
           }
         },
         "vi" : {
@@ -795,8 +795,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Active from - to "
+            "state" : "translated",
+            "value" : "Активно від - до "
           }
         },
         "vi" : {
@@ -1341,8 +1341,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Alarm Settings"
+            "state" : "translated",
+            "value" : "Налаштування сигналу"
           }
         },
         "vi" : {
@@ -1759,8 +1759,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to remove this cgm from loop?"
+            "state" : "translated",
+            "value" : "Ви впевнені, що хочете видалити цей CGM від петлі?"
           }
         },
         "vi" : {
@@ -1896,8 +1896,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticate"
+            "state" : "translated",
+            "value" : "Автентифікація"
           }
         },
         "vi" : {
@@ -2033,8 +2033,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticated"
+            "state" : "translated",
+            "value" : "Автентифіковано"
           }
         },
         "vi" : {
@@ -2579,8 +2579,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Details"
+            "state" : "translated",
+            "value" : "Деталі калібрування"
           }
         },
         "vi" : {
@@ -2715,8 +2715,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Edit"
+            "state" : "translated",
+            "value" : "Редагування калібрування"
           }
         },
         "vi" : {
@@ -3263,8 +3263,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection options"
+            "state" : "translated",
+            "value" : "Варіанти підключення"
           }
         },
         "vi" : {
@@ -3543,8 +3543,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarm volume"
+            "state" : "translated",
+            "value" : "Критична гучність сигналу тривоги"
           }
         },
         "vi" : {
@@ -3679,8 +3679,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarms will always be sent with volume at minimum 60%"
+            "state" : "translated",
+            "value" : "Критичні тривоги завжди надсилатимуться з гучністю щонайменше 60%"
           }
         },
         "vi" : {
@@ -4645,8 +4645,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Info"
+            "state" : "translated",
+            "value" : "Про пристрій"
           }
         },
         "vi" : {
@@ -4782,8 +4782,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect & Continue Setup"
+            "state" : "translated",
+            "value" : "Відключитися та продовжити налаштування"
           }
         },
         "vi" : {
@@ -4919,8 +4919,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect and unpair any other app or device communicating with the sensor via bluetooth."
+            "state" : "translated",
+            "value" : "Від’єднайте та скасуйте сполучення будь-яких інших програм або пристроїв, що зв’язуються з сенсором через Bluetooth."
           }
         },
         "vi" : {
@@ -5328,8 +5328,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fair warning: The sensor will be not be using the manufacturer's algorithm, and some safety mitigations present in the manufacturers algorithm might be missing when you use this."
+            "state" : "translated",
+            "value" : "Чесне попередження: Сенсор не використовуватиме алгоритм виробника, і деякі заходи безпеки, присутні в алгоритмі виробника можуть бути відсутніми під час його використання."
           }
         },
         "vi" : {
@@ -5465,8 +5465,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Found devices:"
+            "state" : "translated",
+            "value" : "Знайдено пристроїв:"
           }
         },
         "vi" : {
@@ -6839,8 +6839,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Keep phone unlocked and your Loop app in the foreground."
+            "state" : "translated",
+            "value" : "Тримайте телефон розблокованим, а додаток Loop – увімкненим."
           }
         },
         "vi" : {
@@ -7530,8 +7530,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Libre 2 Setup"
+            "state" : "translated",
+            "value" : "Налаштування Libre 2"
           }
         },
         "vi" : {
@@ -8625,8 +8625,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Most libre 1 and libre 2 sensors are supported, except North America Libre 2; see readme.md for details."
+            "state" : "translated",
+            "value" : "Підтримується більшість датчиків Libre 1 та Libre 2, окрім Libre 2 для Північної Америки; див. readme.md для отримання детальної інформації."
           }
         },
         "vi" : {
@@ -8761,8 +8761,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Device Setup"
+            "state" : "translated",
+            "value" : "Налаштування нового пристрою"
           }
         },
         "vi" : {
@@ -8898,8 +8898,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Connection: "
+            "state" : "translated",
+            "value" : "Немає з'єднання: "
           }
         },
         "vi" : {
@@ -9034,8 +9034,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Notification"
+            "state" : "translated",
+            "value" : "Сповіщення"
           }
         },
         "vi" : {
@@ -9315,8 +9315,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Outside US"
+            "state" : "translated",
+            "value" : "За межами США"
           }
         },
         "vi" : {
@@ -9452,8 +9452,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pair Sensor"
+            "state" : "translated",
+            "value" : "Парний Сенсор"
           }
         },
         "vi" : {
@@ -9733,8 +9733,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Password"
+            "state" : "translated",
+            "value" : "Пароль"
           }
         },
         "vi" : {
@@ -9870,8 +9870,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause Glucose alarms"
+            "state" : "translated",
+            "value" : "Призупинити сигнали тривоги рівня BG"
           }
         },
         "vi" : {
@@ -10143,8 +10143,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Press the Authenticate Button."
+            "state" : "translated",
+            "value" : "Натисніть кнопку авторизації."
           }
         },
         "vi" : {
@@ -10280,8 +10280,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Proceed to pair new sensor in the next screens. Note that you will loose connection to any existing sensor or transmitter"
+            "state" : "translated",
+            "value" : "Перейдіть до сполучення нового Сенсору на наступний екран. Зверніть увагу, що ви втратите зв'язок з будь-яким існуючим Сенсором або передавачем."
           }
         },
         "vi" : {
@@ -10417,8 +10417,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Remote data storage"
+            "state" : "translated",
+            "value" : "Віддалене сховище даних"
           }
         },
         "vi" : {
@@ -10553,8 +10553,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace sensor immediately to continue receving glucose values"
+            "state" : "translated",
+            "value" : "Негайно замініть Сенсор, щоб продовжувати отримувати значення BG"
           }
         },
         "vi" : {
@@ -11101,8 +11101,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select the type of setup you want."
+            "state" : "translated",
+            "value" : "Виберіть потрібний тип налаштування."
           }
         },
         "vi" : {
@@ -11374,8 +11374,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor expires in "
+            "state" : "translated",
+            "value" : " Сенсор закінчує термін служби через"
           }
         },
         "vi" : {
@@ -11646,8 +11646,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor is expired"
+            "state" : "translated",
+            "value" : "Термін дії Сенсору минув"
           }
         },
         "vi" : {
@@ -12056,8 +12056,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor should be activated and fully warmed up."
+            "state" : "translated",
+            "value" : "Сенсор має бути активований та повністю прогрітий."
           }
         },
         "vi" : {
@@ -12337,8 +12337,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Server"
+            "state" : "translated",
+            "value" : "Сервер"
           }
         },
         "vi" : {
@@ -12610,8 +12610,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The Bluetooth connection will take up to four minutes before it starts working."
+            "state" : "translated",
+            "value" : "З’єднання Bluetooth може запрацювати протягом чотирьох хвилин."
           }
         },
         "vi" : {
@@ -12747,8 +12747,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "There is no undo. Deleting requires authentication!"
+            "state" : "translated",
+            "value" : "Скасування неможливе. Видалення вимагає автентифікації!"
           }
         },
         "vi" : {
@@ -12884,8 +12884,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "To "
+            "state" : "translated",
+            "value" : "До "
           }
         },
         "vi" : {
@@ -13301,8 +13301,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Upload to remote data service"
+            "state" : "translated",
+            "value" : "Завантаження до віддаленої служби передачі даних"
           }
         },
         "vi" : {
@@ -13445,8 +13445,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "US"
+            "state" : "translated",
+            "value" : "США"
           }
         },
         "vi" : {
@@ -13589,8 +13589,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Username"
+            "state" : "translated",
+            "value" : "Ім'я користувача"
           }
         },
         "vi" : {
@@ -13726,8 +13726,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Valid for footer: "
+            "state" : "translated",
+            "value" : "Дійсно для нижнього колонтитула:"
           }
         },
         "vi" : {
@@ -13998,8 +13998,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "View factory calibrations"
+            "state" : "translated",
+            "value" : "Переглянути заводські калібрування"
           }
         },
         "vi" : {
@@ -14135,8 +14135,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your sensor must be activated and fully warmed up."
+            "state" : "translated",
+            "value" : "Ваш Сенсор має бути активований та повністю прогрітий."
           }
         },
         "vi" : {
