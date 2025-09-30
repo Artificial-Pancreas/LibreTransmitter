@@ -528,7 +528,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld%%"
           }
         },
@@ -665,8 +665,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Activate and finish warming up a new sensor with another app or physical reader."
+            "state" : "translated",
+            "value" : "Kích hoạt và hoàn tất giai đoạn khởi động cảm biến mới bằng ứng dụng khác hoặc máy đọc chuyên dụng."
           }
         },
         "yy-YY" : {
@@ -801,8 +801,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Active from - to "
+            "state" : "translated",
+            "value" : "Kích hoạt từ – đến "
           }
         },
         "yy-YY" : {
@@ -1347,8 +1347,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Alarm Settings"
+            "state" : "translated",
+            "value" : "Cài đặt báo thức"
           }
         },
         "yy-YY" : {
@@ -1765,8 +1765,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to remove this cgm from loop?"
+            "state" : "translated",
+            "value" : "Bạn có chắc muốn xóa Cgm này khỏi Loop không?"
           }
         },
         "yy-YY" : {
@@ -1902,8 +1902,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticate"
+            "state" : "translated",
+            "value" : "Xác thực"
           }
         },
         "yy-YY" : {
@@ -2039,8 +2039,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticated"
+            "state" : "translated",
+            "value" : "Đã xác thực"
           }
         },
         "yy-YY" : {
@@ -2585,8 +2585,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Details"
+            "state" : "translated",
+            "value" : "Thông tin hiệu chuẩn"
           }
         },
         "yy-YY" : {
@@ -2721,8 +2721,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Edit"
+            "state" : "translated",
+            "value" : "Sửa hiệu chuẩn"
           }
         },
         "yy-YY" : {
@@ -3269,8 +3269,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection options"
+            "state" : "translated",
+            "value" : "Tùy chọn kết nối"
           }
         },
         "yy-YY" : {
@@ -3549,8 +3549,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarm volume"
+            "state" : "translated",
+            "value" : "Âm lượng cảnh báo khẩn cấp"
           }
         },
         "yy-YY" : {
@@ -3685,8 +3685,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarms will always be sent with volume at minimum 60%"
+            "state" : "translated",
+            "value" : "Cảnh báo khẩn luôn phát tối thiểu 60% âm lượng"
           }
         },
         "yy-YY" : {
@@ -4651,8 +4651,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Info"
+            "state" : "translated",
+            "value" : "Thông tin Thiết bị"
           }
         },
         "yy-YY" : {
@@ -4788,8 +4788,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect & Continue Setup"
+            "state" : "translated",
+            "value" : "Ngắt kết nối & Tiếp tục cài đặt"
           }
         },
         "yy-YY" : {
@@ -4925,8 +4925,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect and unpair any other app or device communicating with the sensor via bluetooth."
+            "state" : "translated",
+            "value" : "Ngắt kết nối và hủy ghép đôi mọi ứng dụng hoặc thiết bị khác đang giao tiếp với cảm biến qua Bluetooth."
           }
         },
         "yy-YY" : {
@@ -5334,8 +5334,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fair warning: The sensor will be not be using the manufacturer's algorithm, and some safety mitigations present in the manufacturers algorithm might be missing when you use this."
+            "state" : "translated",
+            "value" : "Cảnh báo: Cảm biến sẽ không sử dụng thuật toán của nhà sản xuất và một số biện pháp an toàn có trong thuật toán gốc có thể sẽ không có khi bạn dùng tùy chọn này."
           }
         },
         "yy-YY" : {
@@ -5471,8 +5471,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Found devices:"
+            "state" : "translated",
+            "value" : "Tìm thấy thiết bị:"
           }
         },
         "yy-YY" : {
@@ -6845,8 +6845,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Keep phone unlocked and your Loop app in the foreground."
+            "state" : "translated",
+            "value" : "Giữ điện thoại mở khóa và ứng dụng Loop ở chế độ nền."
           }
         },
         "yy-YY" : {
@@ -7536,8 +7536,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Libre 2 Setup"
+            "state" : "translated",
+            "value" : "Cài đặt Libre 2"
           }
         },
         "yy-YY" : {
@@ -8631,8 +8631,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Most libre 1 and libre 2 sensors are supported, except North America Libre 2; see readme.md for details."
+            "state" : "translated",
+            "value" : "Hầu hết các cảm biến Libre 1 và Libre 2 đều được hỗ trợ, ngoại trừ Libre 2 khu vực Bắc Mỹ; xem readme.md để biết chi tiết."
           }
         },
         "yy-YY" : {
@@ -8767,8 +8767,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Device Setup"
+            "state" : "translated",
+            "value" : "Cài đặt thiết bị mới"
           }
         },
         "yy-YY" : {
@@ -8904,8 +8904,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Connection: "
+            "state" : "translated",
+            "value" : "Không có kết nối: "
           }
         },
         "yy-YY" : {
@@ -9040,8 +9040,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Notification"
+            "state" : "translated",
+            "value" : "Thông báo"
           }
         },
         "yy-YY" : {
@@ -9458,8 +9458,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pair Sensor"
+            "state" : "translated",
+            "value" : "Ghép đôi cảm biến"
           }
         },
         "yy-YY" : {
@@ -9876,8 +9876,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause Glucose alarms"
+            "state" : "translated",
+            "value" : "Tạm dừng cảnh báo"
           }
         },
         "yy-YY" : {
@@ -10149,8 +10149,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Press the Authenticate Button."
+            "state" : "translated",
+            "value" : "Bấm nút Xác thực."
           }
         },
         "yy-YY" : {
