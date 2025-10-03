@@ -120,8 +120,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not decrypt sensor contents"
+            "state" : "translated",
+            "value" : "Không thể giải mã nội dung cảm biến"
           }
         },
         "yy-YY" : {
@@ -257,8 +257,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get patch info"
+            "state" : "translated",
+            "value" : "Không thể lấy thông tin patch"
           }
         },
         "yy-YY" : {
@@ -394,8 +394,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get sensor data"
+            "state" : "translated",
+            "value" : "Không thể lấy dữ liệu cảm biến"
           }
         },
         "yy-YY" : {
@@ -531,8 +531,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get tag info"
+            "state" : "translated",
+            "value" : "Không thể đọc dữ liệu NFC"
           }
         },
         "yy-YY" : {
@@ -1647,8 +1647,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Phone NFC not supported!"
+            "state" : "translated",
+            "value" : "Điện thoại không hỗ trợ NFC!"
           }
         },
         "yy-YY" : {
@@ -1921,8 +1921,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong sensor type detected"
+            "state" : "translated",
+            "value" : "Phát hiện sai loại cảm biến"
           }
         },
         "yy-YY" : {
