@@ -123,12 +123,6 @@
             "value" : ""
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -259,12 +253,6 @@
             "value" : "%@"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%@"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -391,12 +379,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%@%%"
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%@%%"
@@ -532,12 +514,6 @@
             "value" : "%lld%%"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%lld%%"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -669,12 +645,6 @@
             "value" : "Kích hoạt và hoàn tất giai đoạn khởi động cảm biến mới bằng ứng dụng khác hoặc máy đọc chuyên dụng."
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Activate and finish warming up a new sensor with another app or physical reader."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -803,12 +773,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kích hoạt từ – đến "
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Active from - to "
           }
         },
         "zh-Hans" : {
@@ -942,12 +906,6 @@
             "value" : "Thêm các loại thông báo"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Additional notification types"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1003,8 +961,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Adds a lot of data to the Issue Report "
+            "state" : "translated",
+            "value" : "Sok adatot ad hozzá a hibajelentéshez"
           }
         },
         "it" : {
@@ -1077,12 +1035,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thêm nhiều dữ liệu vào Báo cáo vấn đề "
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Adds a lot of data to the Issue Report "
           }
         },
         "zh-Hans" : {
@@ -1215,12 +1167,6 @@
             "value" : "Hãy sạc Pin Transmitter"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Adds Transmitter Battery"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1349,12 +1295,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cài đặt báo thức"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Alarm Settings"
           }
         },
         "zh-Hans" : {
@@ -1486,12 +1426,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Luôn thông báo đường huyết"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Always Notify Glucose"
           }
         },
         "zh-Hans" : {
@@ -1632,12 +1566,6 @@
             "value" : "Bạn có chắc sẽ xóa CGM này?"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to delete this CGM?"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -1767,12 +1695,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bạn có chắc muốn xóa Cgm này khỏi Loop không?"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to remove this cgm from loop?"
           }
         },
         "zh-Hans" : {
@@ -1906,12 +1828,6 @@
             "value" : "Xác thực"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticate"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -2043,12 +1959,6 @@
             "value" : "Đã xác thực"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticated"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -2103,8 +2013,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Backfill from history"
+            "state" : "translated",
+            "value" : "Visszatöltés a történetből"
           }
         },
         "it" : {
@@ -2179,12 +2089,6 @@
             "value" : "Bổ sung từ lịch sử"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Backfill from history"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2240,8 +2144,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Backfill options"
+            "state" : "translated",
+            "value" : "Visszatöltési beállítások"
           }
         },
         "it" : {
@@ -2314,12 +2218,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tùy chọn bổ sung"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Backfill options"
           }
         },
         "zh-Hans" : {
@@ -2453,12 +2351,6 @@
             "value" : "Bluetooth Transmitters"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bluetooth Transmitters"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2589,12 +2481,6 @@
             "value" : "Thông tin hiệu chuẩn"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Details"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -2723,12 +2609,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sửa hiệu chuẩn"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Edit"
           }
         },
         "zh-Hans" : {
@@ -2862,12 +2742,6 @@
             "value" : "Hủy bỏ"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2923,8 +2797,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Click to Snooze Alerts"
+            "state" : "translated",
+            "value" : "Kattintson az értesítések elhalasztásához"
           }
         },
         "it" : {
@@ -2997,12 +2871,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhấn để tạm hoãn cảnh báo"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Click to Snooze Alerts"
           }
         },
         "zh-Hans" : {
@@ -3136,12 +3004,6 @@
             "value" : "Cấu hình"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Configuration"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3271,12 +3133,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tùy chọn kết nối"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection options"
           }
         },
         "zh-Hans" : {
@@ -3417,12 +3273,6 @@
             "value" : "Thông tin xác thực"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Credentials"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3553,12 +3403,6 @@
             "value" : "Âm lượng cảnh báo khẩn cấp"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarm volume"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -3687,12 +3531,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cảnh báo khẩn luôn phát tối thiểu 60% âm lượng"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarms will always be sent with volume at minimum 60%"
           }
         },
         "zh-Hans" : {
@@ -3833,12 +3671,6 @@
             "value" : "Ngày"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Date"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3968,12 +3800,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ngày"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "day"
           }
         },
         "zh-Hans" : {
@@ -4107,12 +3933,6 @@
             "value" : "days"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "days"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -4168,8 +3988,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Debug options"
+            "state" : "translated",
+            "value" : "Debug opciók"
           }
         },
         "it" : {
@@ -4242,12 +4062,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tùy chọn gỡ lỗi"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Debug options"
           }
         },
         "zh-Hans" : {
@@ -4381,12 +4195,6 @@
             "value" : "Xóa"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4516,12 +4324,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Xóa CGM"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete CGM"
           }
         },
         "zh-Hans" : {
@@ -4655,12 +4457,6 @@
             "value" : "Thông tin Thiết bị"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Info"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -4790,12 +4586,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ngắt kết nối & Tiếp tục cài đặt"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect & Continue Setup"
           }
         },
         "zh-Hans" : {
@@ -4929,12 +4719,6 @@
             "value" : "Ngắt kết nối và hủy ghép đôi mọi ứng dụng hoặc thiết bị khác đang giao tiếp với cảm biến qua Bluetooth."
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect and unpair any other app or device communicating with the sensor via bluetooth."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -5065,12 +4849,6 @@
             "value" : "Xong"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5199,12 +4977,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chỉnh sửa hiệu chuẩn"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit calibrations"
           }
         },
         "zh-Hans" : {
@@ -5338,12 +5110,6 @@
             "value" : "Cảnh báo: Cảm biến sẽ không sử dụng thuật toán của nhà sản xuất và một số biện pháp an toàn có trong thuật toán gốc có thể sẽ không có khi bạn dùng tùy chọn này."
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Fair warning: The sensor will be not be using the manufacturer's algorithm, and some safety mitigations present in the manufacturers algorithm might be missing when you use this."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -5475,12 +5241,6 @@
             "value" : "Tìm thấy thiết bị:"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Found devices:"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -5609,12 +5369,6 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "g"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
             "value" : "g"
           }
         },
@@ -5756,12 +5510,6 @@
             "value" : "Đường huyết"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5891,12 +5639,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Khả năng hiển thị thông báo Glucose"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose Notification visibility"
           }
         },
         "zh-Hans" : {
@@ -6029,12 +5771,6 @@
             "value" : "Cài đặt đường huyết"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose Settings"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6163,12 +5899,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đã hiểu!"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Got it!"
           }
         },
         "zh-Hans" : {
@@ -6302,12 +6032,6 @@
             "value" : "Cao"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "High"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6437,12 +6161,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "hours"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "hour"
           }
         },
         "zh-Hans" : {
@@ -6576,12 +6294,6 @@
             "value" : "hours"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "hours"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6710,12 +6422,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cảm biến không hợp lệ"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid sensor"
           }
         },
         "zh-Hans" : {
@@ -6849,12 +6555,6 @@
             "value" : "Giữ điện thoại mở khóa và ứng dụng Loop ở chế độ nền."
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Keep phone unlocked and your Loop app in the foreground."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -6986,12 +6686,6 @@
             "value" : "Dự đoán lượng đường trong máu"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Last Blood Sugar prediction"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7121,12 +6815,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lần đo gần nhất"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Last measurement"
           }
         },
         "zh-Hans" : {
@@ -7267,12 +6955,6 @@
             "value" : "Kết quả đọc mới nhất"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Latest Reading"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7401,12 +7083,6 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Libre 2 Direct"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
             "value" : "Libre 2 Direct"
           }
         },
@@ -7540,12 +7216,6 @@
             "value" : "Cài đặt Libre 2"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Libre 2 Setup"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -7674,12 +7344,6 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Libre Transmitters"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
             "value" : "Libre Transmitters"
           }
         },
@@ -7814,12 +7478,6 @@
             "value" : "Thấp"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Low"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7950,12 +7608,6 @@
             "value" : "Pin yếu"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Low battery"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8084,12 +7736,6 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mg/dL"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
             "value" : "mg/dL"
           }
         },
@@ -8224,12 +7870,6 @@
             "value" : "minute"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "minute"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8361,12 +8001,6 @@
             "value" : "phút"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "minutes"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8495,12 +8129,6 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mmol/L"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
             "value" : "mmol/L"
           }
         },
@@ -8635,12 +8263,6 @@
             "value" : "Hầu hết các cảm biến Libre 1 và Libre 2 đều được hỗ trợ, ngoại trừ Libre 2 khu vực Bắc Mỹ; xem readme.md để biết chi tiết."
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Most libre 1 and libre 2 sensors are supported, except North America Libre 2; see readme.md for details."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -8769,12 +8391,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cài đặt thiết bị mới"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "New Device Setup"
           }
         },
         "zh-Hans" : {
@@ -8908,12 +8524,6 @@
             "value" : "Không có kết nối: "
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No Connection: "
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -9042,12 +8652,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thông báo"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Notification"
           }
         },
         "zh-Hans" : {
@@ -9179,12 +8783,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thông báo cho mỗi lần đọc"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Notify per reading"
           }
         },
         "zh-Hans" : {
@@ -9325,12 +8923,6 @@
             "value" : "Ngoài lãnh thổ Hoa Kỳ"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Outside US"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9462,12 +9054,6 @@
             "value" : "Ghép đôi cảm biến"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pair Sensor"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -9597,12 +9183,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đang ghép đôi..."
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pairing..."
           }
         },
         "zh-Hans" : {
@@ -9743,12 +9323,6 @@
             "value" : "Mật khẩu"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Password"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9880,12 +9454,6 @@
             "value" : "Tạm dừng cảnh báo"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause Glucose alarms"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -9940,8 +9508,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Persist sensordata"
+            "state" : "translated",
+            "value" : "Szenzoradatok megtartása"
           }
         },
         "it" : {
@@ -10014,12 +9582,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Duy trì dữ liệu cảm biến"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Persist sensordata"
           }
         },
         "zh-Hans" : {
@@ -10153,12 +9715,6 @@
             "value" : "Bấm nút Xác thực."
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Press the Authenticate Button."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -10285,12 +9841,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Proceed to pair new sensor in the next screens. Note that you will loose connection to any existing sensor or transmitter"
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Proceed to pair new sensor in the next screens. Note that you will loose connection to any existing sensor or transmitter"
@@ -10427,12 +9977,6 @@
             "value" : "Remote data storage"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Remote data storage"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -10558,12 +10102,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace sensor immediately to continue receving glucose values"
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Replace sensor immediately to continue receving glucose values"
@@ -10700,12 +10238,6 @@
             "value" : "Lưu"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Save"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10835,12 +10367,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lịch trình "
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Schedule "
           }
         },
         "zh-Hans" : {
@@ -10974,12 +10500,6 @@
             "value" : "Đề nghị chọn transmitter của bên thứ ba mà bạn muốn kết nối đến"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Select the third party transmitter you want to connect to"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11106,12 +10626,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Select the type of setup you want."
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Select the type of setup you want."
@@ -11247,12 +10761,6 @@
             "value" : "Thay đổi cảm biến"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor change"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11379,12 +10887,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor expires in "
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Sensor expires in "
@@ -11520,12 +11022,6 @@
             "value" : "Cảm biến sắp hết hạn"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor expires soon"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11656,12 +11152,6 @@
             "value" : "Sensor is expired"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor is expired"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -11716,8 +11206,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor not found"
+            "state" : "translated",
+            "value" : "Szenzor nem található"
           }
         },
         "it" : {
@@ -11790,12 +11280,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không phát hiện sensor"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor not found"
           }
         },
         "zh-Hans" : {
@@ -11929,12 +11413,6 @@
             "value" : "Serial cảm biến"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor Serial"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12061,12 +11539,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor should be activated and fully warmed up."
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Sensor should be activated and fully warmed up."
@@ -12201,12 +11673,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trạng thái cảm biến"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor State"
           }
         },
         "zh-Hans" : {
@@ -12347,12 +11813,6 @@
             "value" : "Máy chủ"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Server"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12407,8 +11867,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strength"
+            "state" : "translated",
+            "value" : "Erősség"
           }
         },
         "it" : {
@@ -12481,12 +11941,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Độ mạnh"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Strength"
           }
         },
         "zh-Hans" : {
@@ -12615,12 +12069,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "The Bluetooth connection will take up to four minutes before it starts working."
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "The Bluetooth connection will take up to four minutes before it starts working."
@@ -12757,12 +12205,6 @@
             "value" : "There is no undo. Deleting requires authentication!"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "There is no undo. Deleting requires authentication!"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -12889,12 +12331,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "To "
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "To "
@@ -13038,12 +12474,6 @@
             "value" : "Xu hướng"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Trend"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -13175,12 +12605,6 @@
             "value" : "U"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "U"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -13306,12 +12730,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Upload to remote data service"
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Upload to remote data service"
@@ -13455,12 +12873,6 @@
             "value" : "Hoa Kỳ"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "US"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13599,12 +13011,6 @@
             "value" : "Tên tài khoản"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Username"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13731,12 +13137,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Valid for footer: "
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Valid for footer: "
@@ -13872,12 +13272,6 @@
             "value" : "Giá trị"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Value"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14003,12 +13397,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "View factory calibrations"
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "View factory calibrations"
@@ -14140,12 +13528,6 @@
           }
         },
         "vi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your sensor must be activated and fully warmed up."
-          }
-        },
-        "yy-YY" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Your sensor must be activated and fully warmed up."
