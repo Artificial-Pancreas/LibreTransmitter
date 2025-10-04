@@ -124,12 +124,6 @@
             "value" : "Không thể giải mã nội dung cảm biến"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not decrypt sensor contents"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -259,12 +253,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không thể lấy thông tin patch"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get patch info"
           }
         },
         "zh-Hans" : {
@@ -398,12 +386,6 @@
             "value" : "Không thể lấy dữ liệu cảm biến"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get sensor data"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -533,12 +515,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không thể đọc dữ liệu NFC"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get tag info"
           }
         },
         "zh-Hans" : {
@@ -679,12 +655,6 @@
             "value" : "Dữ liệu từ Dexcom Share"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Dexcom Share"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -816,12 +786,6 @@
             "value" : "g"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "g"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -876,8 +840,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hold the top of your iPhone near the sensor to pair"
+            "state" : "translated",
+            "value" : "Tartsa iPhone-ja tetejét a szenzor közelébe a párosításhoz"
           }
         },
         "it" : {
@@ -950,12 +914,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giữ đầu iPhone gần sensor để ghép nối"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Hold the top of your iPhone near the sensor to pair"
           }
         },
         "zh-Hans" : {
@@ -1089,12 +1047,6 @@
             "value" : "mg/dL"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "mg/dL"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -1223,12 +1175,6 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mmol/L"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
             "value" : "mmol/L"
           }
         },
@@ -1370,12 +1316,6 @@
             "value" : "Cần chú ý"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Needs Attention"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1514,12 +1454,6 @@
             "value" : "OK"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "OK"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1651,12 +1585,6 @@
             "value" : "Điện thoại không hỗ trợ NFC!"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Phone NFC not supported!"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1785,12 +1713,6 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "U"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
             "value" : "U"
           }
         },
@@ -1925,12 +1847,6 @@
             "value" : "Phát hiện sai loại cảm biến"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong sensor type detected"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2060,12 +1976,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Điện thoại hoặc ứng dụng của bạn không hỗ trợ NFC ghép nối với libre2"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your phone or app is not enabled for NFC communications, which is needed to pair to libre2 sensors"
           }
         },
         "zh-Hans" : {
