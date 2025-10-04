@@ -58,6 +58,12 @@
             "value" : "Impossibile decrittografare il contenuto del sensore"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunne ikke dekryptere sensorens innhold"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -193,6 +199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossibile ottenere informazioni sulla patch"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunne ikke få patch info"
           }
         },
         "nb-NO" : {
@@ -332,6 +344,12 @@
             "value" : "Impossibile ottenere i dati del sensore"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunne ikke hente sensordata"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -469,6 +487,12 @@
             "value" : "Impossibile ottenere informazioni sul tag"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunne ikke hente tag-info"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -585,7 +609,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Dexcom Share"
           }
         },
@@ -597,7 +621,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Dexcom Share"
           }
         },
@@ -608,6 +632,18 @@
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dexcom Share"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dexcom Share"
+          }
+        },
+        "nb" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dexcom Share"
@@ -627,7 +663,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Dexcom Share"
           }
         },
@@ -639,14 +675,20 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "Dexcom Share"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Dexcom Share"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dexcom Share"
+            "value" : "Декском Шеар"
           }
         },
         "sk" : {
@@ -676,7 +718,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dữ liệu từ Dexcom Share"
+            "value" : "Dexcom Share"
           }
         },
         "yy-YY" : {
@@ -688,7 +730,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dexcom远程"
+            "value" : "德康远程"
           }
         }
       }
@@ -750,6 +792,12 @@
             "value" : "g"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "g"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -759,12 +807,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "gr"
+            "value" : "g"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "g"
           }
         },
@@ -841,13 +889,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hold toppen af din iPhone nær sensoren for at parre"
+            "value" : "Hold toppen af din iPhone tæt på sensoren for at parre den"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Halten Sie die Oberseite Ihres iPhones an den Sensor, um eine Verbindung herzustellen"
+            "value" : "Halte das Oberteil des Telefons nah an den Sensor um ihn zu koppeln"
           }
         },
         "es" : {
@@ -865,7 +913,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Positionner le haut de votre iPhone près du capteur à scanner"
+            "value" : "Tenez le haut de votre iPhone près du capteur pour l’appairer"
           }
         },
         "he" : {
@@ -883,7 +931,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tieni la parte superiore del tuo iPhone affianco al sensore per abbinarlo"
+            "value" : "Assicurati che l'iPhone sia vicino al Pod per abbinarlo"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold toppen av iPhone i nærheten av sensoren for å koble sammen"
           }
         },
         "nb-NO" : {
@@ -900,8 +954,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hold the top of your iPhone near the sensor to pair"
+            "state" : "translated",
+            "value" : "Aby sparować, przytrzymaj górną część iPhone'a w pobliżu sensora"
           }
         },
         "pt" : {
@@ -919,7 +973,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Держите верхнюю часть вашего iPhone рядом с сенсором для подключения"
+            "value" : "Удерживайте верхнюю часть iPhone рядом с датчиком для создания пары"
           }
         },
         "sk" : {
@@ -961,7 +1015,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按住传感器附近的 iPhone 顶部配对"
+            "value" : "将 iPhone 顶部靠近传感器进行配对"
           }
         }
       }
@@ -1020,6 +1074,12 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
+            "value" : "mg/dl"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "mg/dL"
           }
         },
@@ -1032,12 +1092,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mg/dl"
+            "value" : "mg/dL"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mg/dL"
           }
         },
@@ -1160,6 +1220,12 @@
             "value" : "mmol/L"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mmol/L"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1169,12 +1235,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mmol/l"
+            "value" : "mmol/L"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mmol/L"
           }
         },
@@ -1253,7 +1319,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Handling påkrævet"
+            "value" : "Behov opmærksom"
           }
         },
         "de" : {
@@ -1283,13 +1349,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Demande votre attention"
+            "value" : "Attention Requise"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Needs Attention"
+            "state" : "translated",
+            "value" : "דורש תשומת לב"
           }
         },
         "hu" : {
@@ -1304,6 +1370,18 @@
             "value" : "Richiede attenzione"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注意が必要です"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trenger tilsyn"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1313,7 +1391,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aandacht Nodig"
+            "value" : "Aandacht vereist"
           }
         },
         "pl" : {
@@ -1334,6 +1412,12 @@
             "value" : "Precisa de Atenção"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Necesită atenție"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1349,7 +1433,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kräver uppmärksamhet"
+            "value" : "Kräver åtgärd"
           }
         },
         "tr" : {
@@ -1391,7 +1475,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حسناً"
+            "value" : "موافق"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "da" : {
@@ -1420,7 +1510,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -1432,8 +1522,8 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "OK"
+            "state" : "translated",
+            "value" : "תקין"
           }
         },
         "hu" : {
@@ -1443,6 +1533,18 @@
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "nb" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -1462,7 +1564,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -1474,14 +1576,20 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "OK"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ОК"
+            "value" : "OK"
           }
         },
         "sk" : {
@@ -1523,7 +1631,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ok"
+            "value" : "好"
           }
         }
       }
@@ -1583,6 +1691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "NFC non supportato!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefonens NFC støttes ikke!"
           }
         },
         "nb-NO" : {
@@ -1859,6 +1973,12 @@
             "value" : "Rilevato tipo di sensore errato"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feil sensortype oppdaget"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1951,13 +2071,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Din telefon eller app er ikke aktiveret til NFC-kommunikation, som er nødvendig for at parre til libre2 sensorer"
+            "value" : "Din telefon eller app er ikke aktiveret til NFC-kommunikation, hvilket er nødvendigt for at parre med libre2-sensorer"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "In Ihrem Smartphone oder Ihrer App ist die NFC-Kommunikation nicht aktiviert, welche benötigt wird, um eine Verbindung mit Libre 2 Sensoren herzustellen"
+            "value" : "Dein Telefon oder Deine App ist nicht für die NFC-Kommunikation freigeschaltet, die zum Koppeln mit Libre2-Sensoren erforderlich ist"
           }
         },
         "es" : {
@@ -1975,7 +2095,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Votre téléphone ou application n'est pas activé pour les communications NFC, ce qui est nécessaire pour appairer avec les capteurs libre2"
+            "value" : "Votre téléphone ou votre application n’est pas activé pour les communications NFC, qui sont nécessaires pour coupler les capteurs libre2"
           }
         },
         "he" : {
@@ -1993,7 +2113,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il tuo telefono o l'app non sono abilitati per le comunicazioni NFC, necessarie per associarsi ai sensori libre2"
+            "value" : "Il tuo telefono o applicazione non è abilitato alla comunicazione NFC, la quale è necessaria per abbinare il sensore Libre 2"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefonen eller appen din er ikke aktivert for NFC-kommunikasjon, noe som er nødvendig for å koble til libre2-sensorer."
           }
         },
         "nb-NO" : {
@@ -2010,8 +2136,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your phone or app is not enabled for NFC communications, which is needed to pair to libre2 sensors"
+            "state" : "translated",
+            "value" : "Twój telefon lub aplikacja nie obsługuje komunikacji NFC, która jest wymagana do sparowania z sensorem Libre2"
           }
         },
         "pt" : {
@@ -2029,7 +2155,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "NFC недоступен. Он требуется для соединение с сенсором Libre2"
+            "value" : "Ваш телефон или приложение не поддерживает NFC-связь, которая необходима для подключения к сенсорам Libre2"
           }
         },
         "sk" : {
@@ -2071,7 +2197,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的手机或应用程序尚未启用 NFC，需要启用NFC配对 libre2 传感器"
+            "value" : "您的手机或应用未启用 NFC 通信功能，而该功能是与 Libre 2 传感器配对所必需的。"
           }
         }
       }
