@@ -243,7 +243,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@"
           }
         },
@@ -486,7 +486,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld%%"
           }
         },
@@ -617,8 +617,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Activate and finish warming up a new sensor with another app or physical reader."
+            "state" : "translated",
+            "value" : "Aktivujte a dokončite zahrievanie nového senzora pomocou inej aplikácie alebo fyzickej čítačky."
           }
         },
         "sv" : {
@@ -747,8 +747,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Active from - to "
+            "state" : "translated",
+            "value" : "Aktívny od - do "
           }
         },
         "sv" : {
@@ -1269,8 +1269,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Alarm Settings"
+            "state" : "translated",
+            "value" : "Nastavenia alarmov"
           }
         },
         "sv" : {
@@ -1669,8 +1669,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to remove this cgm from loop?"
+            "state" : "translated",
+            "value" : "Naozaj chcete odstrániť tento CGM zo slučky?"
           }
         },
         "sv" : {
@@ -1800,8 +1800,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticate"
+            "state" : "translated",
+            "value" : "Overiť"
           }
         },
         "sv" : {
@@ -1931,8 +1931,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticated"
+            "state" : "translated",
+            "value" : "Overený"
           }
         },
         "sv" : {
@@ -2453,8 +2453,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Details"
+            "state" : "translated",
+            "value" : "Podrobnosti o kalibrácii"
           }
         },
         "sv" : {
@@ -2583,8 +2583,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Edit"
+            "state" : "translated",
+            "value" : "Upraviť kalibráciu"
           }
         },
         "sv" : {
@@ -3107,8 +3107,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection options"
+            "state" : "translated",
+            "value" : "Možnosti pripojenia"
           }
         },
         "sv" : {
@@ -3375,8 +3375,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarm volume"
+            "state" : "translated",
+            "value" : "Hlasitosť kritického alarmu"
           }
         },
         "sv" : {
@@ -3505,8 +3505,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarms will always be sent with volume at minimum 60%"
+            "state" : "translated",
+            "value" : "Kritické alarmy budú vždy hlásené s minimálnou hlasitosťou 60 %"
           }
         },
         "sv" : {
@@ -4429,8 +4429,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Info"
+            "state" : "translated",
+            "value" : "Informácie o zariadení"
           }
         },
         "sv" : {
@@ -4560,8 +4560,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect & Continue Setup"
+            "state" : "translated",
+            "value" : "Odpojiť a pokračovať v nastavení"
           }
         },
         "sv" : {
@@ -4691,8 +4691,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect and unpair any other app or device communicating with the sensor via bluetooth."
+            "state" : "translated",
+            "value" : "Odpojte a zrušte párovanie všetkých ostatných aplikácií alebo zariadení, ktoré komunikujú so senzorom prostredníctvom bluetooth."
           }
         },
         "sv" : {
@@ -5082,8 +5082,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fair warning: The sensor will be not be using the manufacturer's algorithm, and some safety mitigations present in the manufacturers algorithm might be missing when you use this."
+            "state" : "translated",
+            "value" : "Upozornenie: Senzor nebude používať algoritmus výrobcu a pri jeho používaní môžu chýbať niektoré bezpečnostné opatrenia, ktoré sú súčasťou algoritmu výrobcu."
           }
         },
         "sv" : {
@@ -5213,8 +5213,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Found devices:"
+            "state" : "translated",
+            "value" : "Nájdené zariadenia:"
           }
         },
         "sv" : {
@@ -6527,8 +6527,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Keep phone unlocked and your Loop app in the foreground."
+            "state" : "translated",
+            "value" : "Nechajte telefón odomknutý a aplikáciu iAPS v popredí."
           }
         },
         "sv" : {
@@ -7188,8 +7188,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Libre 2 Setup"
+            "state" : "translated",
+            "value" : "Nastavenie Libre 2"
           }
         },
         "sv" : {
@@ -8235,8 +8235,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Most libre 1 and libre 2 sensors are supported, except North America Libre 2; see readme.md for details."
+            "state" : "translated",
+            "value" : "Podporovaná je väčšina senzorov Libre 1 a Libre 2, s výnimkou severoamerického Libre 2; podrobnosti nájdete v súbore readme.md."
           }
         },
         "sv" : {
@@ -8365,8 +8365,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Device Setup"
+            "state" : "translated",
+            "value" : "Nastavenie nového zariadenia"
           }
         },
         "sv" : {
@@ -8496,8 +8496,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Connection: "
+            "state" : "translated",
+            "value" : "Žiadne pripojenie: "
           }
         },
         "sv" : {
@@ -8626,8 +8626,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Notification"
+            "state" : "translated",
+            "value" : "Oznámenie"
           }
         },
         "sv" : {
@@ -9026,8 +9026,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pair Sensor"
+            "state" : "translated",
+            "value" : "Spárovať senzor"
           }
         },
         "sv" : {
@@ -9426,8 +9426,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause Glucose alarms"
+            "state" : "translated",
+            "value" : "Pozastaviť alarmy glykémie"
           }
         },
         "sv" : {
@@ -9687,8 +9687,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Press the Authenticate Button."
+            "state" : "translated",
+            "value" : "Stlačte tlačidlo Overiť."
           }
         },
         "sv" : {
@@ -9818,8 +9818,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Proceed to pair new sensor in the next screens. Note that you will loose connection to any existing sensor or transmitter"
+            "state" : "translated",
+            "value" : "Pokračujte v spárovaní nového senzora na následujúcej obrazovke. Upozorňujeme, že stratíte pripojenie k akémukoľvek existujúcemu senzoru alebo vysielaču"
           }
         },
         "sv" : {
@@ -9842,8 +9842,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Proceed to pair new sensor in the next screens. Note that you will loose connection to any existing sensor or transmitter"
+            "state" : "translated",
+            "value" : "Tiếp tục ghép đôi cảm biến mới trong các màn hình tiếp theo. Lưu ý rằng bạn sẽ mất kết nối với bất kỳ cảm biến hoặc bộ truyền hiện có nào"
           }
         },
         "zh-Hans" : {
@@ -9949,8 +9949,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Remote data storage"
+            "state" : "translated",
+            "value" : "Vzdialené ukladanie údajov"
           }
         },
         "sv" : {
@@ -9973,8 +9973,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Remote data storage"
+            "state" : "translated",
+            "value" : "Lưu trữ dữ liệu từ xa"
           }
         },
         "zh-Hans" : {
@@ -10079,8 +10079,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace sensor immediately to continue receving glucose values"
+            "state" : "translated",
+            "value" : "Ihneď vymeňte senzor, aby ste mohli pokračovať v prijímaní hodnôt glykémie"
           }
         },
         "sv" : {
@@ -10103,8 +10103,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace sensor immediately to continue receving glucose values"
+            "state" : "translated",
+            "value" : "Hãy thay cảm biến ngay để tiếp tục nhận giá trị đường huyết"
           }
         },
         "zh-Hans" : {
@@ -10603,8 +10603,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select the type of setup you want."
+            "state" : "translated",
+            "value" : "Vyberte typ nastavenia, ktorý chcete."
           }
         },
         "sv" : {
@@ -10627,8 +10627,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select the type of setup you want."
+            "state" : "translated",
+            "value" : "Chọn loại thiết lập bạn muốn."
           }
         },
         "zh-Hans" : {
@@ -10864,8 +10864,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor expires in "
+            "state" : "translated",
+            "value" : "Exspirácia senzora "
           }
         },
         "sv" : {
@@ -10888,8 +10888,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor expires in "
+            "state" : "translated",
+            "value" : "Cảm biến sẽ hết hạn sau "
           }
         },
         "zh-Hans" : {
@@ -11124,8 +11124,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor is expired"
+            "state" : "translated",
+            "value" : "Platnosť senzora exspirovala"
           }
         },
         "sv" : {
@@ -11148,8 +11148,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor is expired"
+            "state" : "translated",
+            "value" : "Cảm biến đã hết hạn"
           }
         },
         "zh-Hans" : {
@@ -11516,8 +11516,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor should be activated and fully warmed up."
+            "state" : "translated",
+            "value" : "Senzor by mal byť aktivovaný a zahriaty."
           }
         },
         "sv" : {
@@ -11540,8 +11540,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor should be activated and fully warmed up."
+            "state" : "translated",
+            "value" : "Cảm biến cần được kích hoạt và warmed up hoàn tất."
           }
         },
         "zh-Hans" : {
@@ -11785,7 +11785,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Server"
           }
         },
@@ -12046,8 +12046,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The Bluetooth connection will take up to four minutes before it starts working."
+            "state" : "translated",
+            "value" : "Bluetooth pripojenie môže trvať až štyri minúty, kým začne fungovať."
           }
         },
         "sv" : {
@@ -12070,8 +12070,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The Bluetooth connection will take up to four minutes before it starts working."
+            "state" : "translated",
+            "value" : "Kết nối Bluetooth có thể mất đến bốn phút trước khi bắt đầu hoạt động."
           }
         },
         "zh-Hans" : {
@@ -12177,8 +12177,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "There is no undo. Deleting requires authentication!"
+            "state" : "translated",
+            "value" : "Nie je možné vrátiť späť. Odstránenie vyžaduje overenie!"
           }
         },
         "sv" : {
@@ -12201,8 +12201,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "There is no undo. Deleting requires authentication!"
+            "state" : "translated",
+            "value" : "Không thể hoàn tác. Việc xóa yêu cầu xác thực!"
           }
         },
         "zh-Hans" : {
@@ -12308,8 +12308,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "To "
+            "state" : "translated",
+            "value" : "Do "
           }
         },
         "sv" : {
@@ -12332,8 +12332,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "To "
+            "state" : "translated",
+            "value" : "Đến "
           }
         },
         "zh-Hans" : {
@@ -12707,8 +12707,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Upload to remote data service"
+            "state" : "translated",
+            "value" : "Nahrať do vzdialenej dátovej služby"
           }
         },
         "sv" : {
@@ -12731,8 +12731,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Upload to remote data service"
+            "state" : "translated",
+            "value" : "Tải lên dịch vụ dữ liệu từ xa"
           }
         },
         "zh-Hans" : {
@@ -13114,8 +13114,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Valid for footer: "
+            "state" : "translated",
+            "value" : "Platné pre pätičku: "
           }
         },
         "sv" : {
@@ -13138,8 +13138,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Valid for footer: "
+            "state" : "translated",
+            "value" : "Hợp lệ: "
           }
         },
         "zh-Hans" : {
@@ -13374,8 +13374,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "View factory calibrations"
+            "state" : "translated",
+            "value" : "Zobraziť továrenské kalibrácie"
           }
         },
         "sv" : {
@@ -13398,8 +13398,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "View factory calibrations"
+            "state" : "translated",
+            "value" : "Xem hiệu chuẩn từ nhà sản xuất"
           }
         },
         "zh-Hans" : {
@@ -13505,8 +13505,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your sensor must be activated and fully warmed up."
+            "state" : "translated",
+            "value" : "Váš senzor musí byť aktivovaný a zahriaty."
           }
         },
         "sv" : {
@@ -13529,8 +13529,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your sensor must be activated and fully warmed up."
+            "state" : "translated",
+            "value" : "Cảm biến của bạn phải được kích hoạt và warmed up hoàn tất."
           }
         },
         "zh-Hans" : {
