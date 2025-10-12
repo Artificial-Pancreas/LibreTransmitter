@@ -96,8 +96,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not decrypt sensor contents"
+            "state" : "translated",
+            "value" : "Nepodarilo sa dešifrovať obsah senzora"
           }
         },
         "sv" : {
@@ -227,8 +227,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get patch info"
+            "state" : "translated",
+            "value" : "Nepodarilo sa získať informácie o náplasti"
           }
         },
         "sv" : {
@@ -358,8 +358,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get sensor data"
+            "state" : "translated",
+            "value" : "Nepodarilo sa získať údaje zo senzora"
           }
         },
         "sv" : {
@@ -489,8 +489,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get tag info"
+            "state" : "translated",
+            "value" : "Nepodarilo sa získať informácie o štítku"
           }
         },
         "sv" : {
@@ -1557,8 +1557,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Phone NFC not supported!"
+            "state" : "translated",
+            "value" : "Telefón nepodporuje NFC!"
           }
         },
         "sv" : {
@@ -1819,8 +1819,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Wrong sensor type detected"
+            "state" : "translated",
+            "value" : "Zistený nesprávny typ senzora"
           }
         },
         "sv" : {
