@@ -4695,7 +4695,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Șterge CGM"
+            "value" : "Ștergeți CGM"
           }
         },
         "ru" : {
@@ -5993,7 +5993,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Glucoză"
+            "value" : "Glicemie"
           }
         },
         "ru" : {
@@ -9004,7 +9004,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Majoritatea senzorilor libre 1 și libre 2 sunt suportați, cu excepția Libre 2 din America de Nord; consultați readme.md pentru detalii."
+            "value" : "Majoritatea senzorilor Libre 1 și Libre 2 sunt suportați, cu excepția Libre 2 din America de Nord; consultați readme.md pentru detalii."
           }
         },
         "ru" : {
@@ -10315,7 +10315,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Întrerupeți alarmele de glicemia"
+            "value" : "Întrerupeți alarmele de glicemie"
           }
         },
         "ru" : {
@@ -13617,7 +13617,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trend"
+            "value" : "Tendință"
           }
         },
         "ru" : {
