@@ -2613,8 +2613,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration Edit"
+            "state" : "translated",
+            "value" : "校准编辑"
           }
         }
       }
@@ -3137,8 +3137,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection options"
+            "state" : "translated",
+            "value" : "连接选项"
           }
         }
       }
@@ -3405,8 +3405,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarm volume"
+            "state" : "translated",
+            "value" : "严重警报音量"
           }
         }
       }
@@ -3535,8 +3535,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarms will always be sent with volume at minimum 60%"
+            "state" : "translated",
+            "value" : "严重警报将始终以至少 60% 的音量发出。"
           }
         }
       }
@@ -4459,8 +4459,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Info"
+            "state" : "translated",
+            "value" : "设备信息"
           }
         }
       }
@@ -4590,8 +4590,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect & Continue Setup"
+            "state" : "translated",
+            "value" : "断开连接并继续设置"
           }
         }
       }
@@ -8656,8 +8656,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Notification"
+            "state" : "translated",
+            "value" : "通知"
           }
         }
       }
@@ -10894,8 +10894,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor expires in "
+            "state" : "translated",
+            "value" : "传感器到期时间 "
           }
         }
       }
