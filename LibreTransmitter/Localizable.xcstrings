@@ -6,7 +6,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not decrypt sensor contents"
           }
         },
@@ -24,13 +24,13 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not decrypt sensor contents"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not decrypt sensor contents"
           }
         },
@@ -42,13 +42,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not decrypt sensor contents"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not decrypt sensor contents"
           }
         },
@@ -56,6 +56,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossibile decrittografare il contenuto del sensore"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunne ikke dekryptere sensorens innhold"
           }
         },
         "nb-NO" : {
@@ -84,8 +90,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not decrypt sensor contents"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu s-a putut decripta conținutul senzorului"
           }
         },
         "ru" : {
@@ -108,7 +120,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not decrypt sensor contents"
           }
         },
@@ -137,7 +149,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get patch info"
           }
         },
@@ -155,13 +167,13 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get patch info"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get patch info"
           }
         },
@@ -173,13 +185,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get patch info"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get patch info"
           }
         },
@@ -187,6 +199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossibile ottenere informazioni sulla patch"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunne ikke få patch info"
           }
         },
         "nb-NO" : {
@@ -215,8 +233,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get patch info"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu s-au putut obține informații despre patch"
           }
         },
         "ru" : {
@@ -239,7 +263,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get patch info"
           }
         },
@@ -257,7 +281,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get patch info"
           }
         }
@@ -268,7 +292,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get sensor data"
           }
         },
@@ -286,13 +310,13 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get sensor data"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get sensor data"
           }
         },
@@ -304,13 +328,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get sensor data"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get sensor data"
           }
         },
@@ -318,6 +342,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossibile ottenere i dati del sensore"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunne ikke hente sensordata"
           }
         },
         "nb-NO" : {
@@ -346,8 +376,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get sensor data"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu s-au putut obține date de la senzori"
           }
         },
         "ru" : {
@@ -370,7 +406,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get sensor data"
           }
         },
@@ -399,7 +435,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get tag info"
           }
         },
@@ -417,13 +453,13 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get tag info"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get tag info"
           }
         },
@@ -435,13 +471,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get tag info"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get tag info"
           }
         },
@@ -449,6 +485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossibile ottenere informazioni sul tag"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunne ikke hente tag-info"
           }
         },
         "nb-NO" : {
@@ -477,8 +519,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get tag info"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu s-au putut obține informații despre etichetă"
           }
         },
         "ru" : {
@@ -501,7 +549,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Could not get tag info"
           }
         },
@@ -561,7 +609,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Dexcom Share"
           }
         },
@@ -573,17 +621,29 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Dexcom Share"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Dexcom Share"
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dexcom Share"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dexcom Share"
+          }
+        },
+        "nb" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dexcom Share"
@@ -603,7 +663,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Dexcom Share"
           }
         },
@@ -615,14 +675,20 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "Dexcom Share"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Dexcom Share"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dexcom Share"
+            "value" : "Декском Шеар"
           }
         },
         "sk" : {
@@ -658,7 +724,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dexcom远程"
+            "value" : "德康远程"
           }
         }
       }
@@ -692,7 +758,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "g"
           }
         },
@@ -704,7 +770,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "g"
           }
         },
@@ -720,6 +786,12 @@
             "value" : "g"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "g"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -729,12 +801,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "gr"
+            "value" : "g"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "g"
           }
         },
@@ -746,7 +818,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "g"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "g"
           }
         },
@@ -798,20 +876,20 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Hold the top of your iPhone near the sensor to pair"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hold toppen af din iPhone nær sensoren for at parre"
+            "value" : "Hold toppen af din iPhone tæt på sensoren for at parre den"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Halten Sie die Oberseite Ihres iPhones an den Sensor, um eine Verbindung herzustellen"
+            "value" : "Halte das Oberteil des Telefons nah an den Sensor um ihn zu koppeln"
           }
         },
         "es" : {
@@ -822,19 +900,19 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Hold the top of your iPhone near the sensor to pair"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Positionner le haut de votre iPhone près du capteur à scanner"
+            "value" : "Tenez le haut de votre iPhone près du capteur pour l’appairer"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Hold the top of your iPhone near the sensor to pair"
           }
         },
@@ -847,7 +925,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tieni la parte superiore del tuo iPhone affianco al sensore per abbinarlo"
+            "value" : "Assicurati che l'iPhone sia vicino al Pod per abbinarlo"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold toppen av iPhone i nærheten av sensoren for å koble sammen"
           }
         },
         "nb-NO" : {
@@ -864,8 +948,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hold the top of your iPhone near the sensor to pair"
+            "state" : "translated",
+            "value" : "Aby sparować, przytrzymaj górną część iPhone'a w pobliżu sensora"
           }
         },
         "pt" : {
@@ -876,14 +960,20 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Hold the top of your iPhone near the sensor to pair"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Țineți partea de sus a iPhone-ului lângă senzor pentru a-l conecta"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Держите верхнюю часть вашего iPhone рядом с сенсором для подключения"
+            "value" : "Удерживайте верхнюю часть iPhone рядом с датчиком для создания пары"
           }
         },
         "sk" : {
@@ -919,7 +1009,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按住传感器附近的 iPhone 顶部配对"
+            "value" : "将 iPhone 顶部靠近传感器进行配对"
           }
         }
       }
@@ -953,7 +1043,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mg/dL"
           }
         },
@@ -965,7 +1055,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mg/dL"
           }
         },
@@ -976,6 +1066,12 @@
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mg/dl"
+          }
+        },
+        "nb" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "mg/dL"
@@ -990,12 +1086,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mg/dl"
+            "value" : "mg/dL"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mg/dL"
           }
         },
@@ -1007,7 +1103,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "mg/dL"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "mg/dL"
           }
         },
@@ -1031,7 +1133,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mg/dL"
           }
         },
@@ -1049,7 +1151,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mg/dL"
           }
         }
@@ -1084,7 +1186,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mmol/L"
           }
         },
@@ -1096,7 +1198,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mmol/L"
           }
         },
@@ -1112,6 +1214,12 @@
             "value" : "mmol/L"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mmol/L"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1121,12 +1229,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mmol/l"
+            "value" : "mmol/L"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mmol/L"
           }
         },
@@ -1138,7 +1246,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "mmol/L"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "mmol/L"
           }
         },
@@ -1162,7 +1276,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mmol/L"
           }
         },
@@ -1180,7 +1294,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mmol/L"
           }
         }
@@ -1199,7 +1313,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Handling påkrævet"
+            "value" : "Behov opmærksom"
           }
         },
         "de" : {
@@ -1229,18 +1343,18 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Demande votre attention"
+            "value" : "Attention Requise"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Needs Attention"
+            "state" : "translated",
+            "value" : "דורש תשומת לב"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Needs Attention"
           }
         },
@@ -1248,6 +1362,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Richiede attenzione"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注意が必要です"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trenger tilsyn"
           }
         },
         "nb-NO" : {
@@ -1259,7 +1385,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aandacht Nodig"
+            "value" : "Aandacht vereist"
           }
         },
         "pl" : {
@@ -1280,6 +1406,12 @@
             "value" : "Precisa de Atenção"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Necesită atenție"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1295,7 +1427,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kräver uppmärksamhet"
+            "value" : "Kräver åtgärd"
           }
         },
         "tr" : {
@@ -1331,7 +1463,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حسناً"
+            "value" : "موافق"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "da" : {
@@ -1360,7 +1498,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -1372,17 +1510,29 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "OK"
+            "state" : "translated",
+            "value" : "תקין"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "OK"
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "nb" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -1402,7 +1552,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -1414,14 +1564,20 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "OK"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ОК"
+            "value" : "OK"
           }
         },
         "sk" : {
@@ -1457,7 +1613,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ok"
+            "value" : "好"
           }
         }
       }
@@ -1467,7 +1623,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Phone NFC not supported!"
           }
         },
@@ -1485,13 +1641,13 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Phone NFC not supported!"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Phone NFC not supported!"
           }
         },
@@ -1503,13 +1659,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Phone NFC not supported!"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Phone NFC not supported!"
           }
         },
@@ -1517,6 +1673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "NFC non supportato!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefonens NFC støttes ikke!"
           }
         },
         "nb-NO" : {
@@ -1545,8 +1707,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Phone NFC not supported!"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NFC-ul telefonului nu este acceptat!"
           }
         },
         "ru" : {
@@ -1569,7 +1737,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Phone NFC not supported!"
           }
         },
@@ -1729,7 +1897,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Wrong sensor type detected"
           }
         },
@@ -1741,37 +1909,37 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Wrong sensor type detected"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Wrong sensor type detected"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Wrong sensor type detected"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Wrong sensor type detected"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Wrong sensor type detected"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Wrong sensor type detected"
           }
         },
@@ -1779,6 +1947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rilevato tipo di sensore errato"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feil sensortype oppdaget"
           }
         },
         "nb-NO" : {
@@ -1807,8 +1981,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Wrong sensor type detected"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tip de senzor greșit detectat"
           }
         },
         "ru" : {
@@ -1831,7 +2011,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Wrong sensor type detected"
           }
         },
@@ -1860,20 +2040,20 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Your phone or app is not enabled for NFC communications, which is needed to pair to libre2 sensors"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Din telefon eller app er ikke aktiveret til NFC-kommunikation, som er nødvendig for at parre til libre2 sensorer"
+            "value" : "Din telefon eller app er ikke aktiveret til NFC-kommunikation, hvilket er nødvendigt for at parre med libre2-sensorer"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "In Ihrem Smartphone oder Ihrer App ist die NFC-Kommunikation nicht aktiviert, welche benötigt wird, um eine Verbindung mit Libre 2 Sensoren herzustellen"
+            "value" : "Dein Telefon oder Deine App ist nicht für die NFC-Kommunikation freigeschaltet, die zum Koppeln mit Libre2-Sensoren erforderlich ist"
           }
         },
         "es" : {
@@ -1884,19 +2064,19 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Your phone or app is not enabled for NFC communications, which is needed to pair to libre2 sensors"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Votre téléphone ou application n'est pas activé pour les communications NFC, ce qui est nécessaire pour appairer avec les capteurs libre2"
+            "value" : "Votre téléphone ou votre application n’est pas activé pour les communications NFC, qui sont nécessaires pour coupler les capteurs libre2"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Your phone or app is not enabled for NFC communications, which is needed to pair to libre2 sensors"
           }
         },
@@ -1909,7 +2089,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il tuo telefono o l'app non sono abilitati per le comunicazioni NFC, necessarie per associarsi ai sensori libre2"
+            "value" : "Il tuo telefono o applicazione non è abilitato alla comunicazione NFC, la quale è necessaria per abbinare il sensore Libre 2"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefonen eller appen din er ikke aktivert for NFC-kommunikasjon, noe som er nødvendig for å koble til libre2-sensorer."
           }
         },
         "nb-NO" : {
@@ -1926,8 +2112,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your phone or app is not enabled for NFC communications, which is needed to pair to libre2 sensors"
+            "state" : "translated",
+            "value" : "Twój telefon lub aplikacja nie obsługuje komunikacji NFC, która jest wymagana do sparowania z sensorem Libre2"
           }
         },
         "pt" : {
@@ -1942,10 +2128,16 @@
             "value" : "Seu telefone ou aplicativo não está habilitado para conexões NFC, que é necessário para emparelhar sensores Libre 2"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefonul sau aplicația dvs. nu este activată pentru comunicații NFC, care sunt necesare pentru conectarea la senzorii Libre 2."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "NFC недоступен. Он требуется для соединение с сенсором Libre2"
+            "value" : "Ваш телефон или приложение не поддерживает NFC-связь, которая необходима для подключения к сенсорам Libre2"
           }
         },
         "sk" : {
@@ -1981,7 +2173,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的手机或应用程序尚未启用 NFC，需要启用NFC配对 libre2 传感器"
+            "value" : "您的手机或应用未启用 NFC 通信功能，而该功能是与 Libre 2 传感器配对所必需的。"
           }
         }
       }
