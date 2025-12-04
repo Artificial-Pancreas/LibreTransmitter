@@ -88,6 +88,12 @@
             "value" : "Could not decrypt sensor contents"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Could not decrypt sensor contents"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -214,6 +220,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Could not get patch info"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Could not get patch info"
@@ -350,6 +362,12 @@
             "value" : "Could not get sensor data"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Could not get sensor data"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -476,6 +494,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Could not get tag info"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Could not get tag info"
@@ -619,6 +643,12 @@
             "value" : "Dexcom Share"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dexcom Share"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -750,6 +780,12 @@
             "value" : "g"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "g"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -875,6 +911,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hold the top of your iPhone near the sensor to pair"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Hold the top of your iPhone near the sensor to pair"
@@ -1011,6 +1053,12 @@
             "value" : "mg/dL"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "mg/dL"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1137,6 +1185,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "mmol/L"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "mmol/L"
@@ -1280,6 +1334,12 @@
             "value" : "Precisa de Atenção"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Needs Attention"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1418,6 +1478,12 @@
             "value" : "OK"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OK"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1544,6 +1610,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Phone NFC not supported!"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Phone NFC not supported!"
@@ -1680,6 +1752,12 @@
             "value" : "U"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "U"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1806,6 +1884,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Wrong sensor type detected"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Wrong sensor type detected"
@@ -1940,6 +2024,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seu telefone ou aplicativo não está habilitado para conexões NFC, que é necessário para emparelhar sensores Libre 2"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your phone or app is not enabled for NFC communications, which is needed to pair to libre2 sensors"
           }
         },
         "ru" : {
