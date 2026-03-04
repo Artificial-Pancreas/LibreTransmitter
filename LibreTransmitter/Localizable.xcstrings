@@ -246,7 +246,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kunde inte hämta patchinformation"
+            "value" : "Kunde inte hämta patch-pumpinformation"
           }
         },
         "tr" : {
