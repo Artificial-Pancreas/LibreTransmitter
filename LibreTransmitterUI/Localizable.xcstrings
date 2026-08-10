@@ -3341,8 +3341,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Credentials"
+            "state" : "translated",
+            "value" : "Hitelesítő adatok"
           }
         },
         "it" : {
@@ -7191,8 +7191,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Latest Reading"
+            "state" : "translated",
+            "value" : "A legújabb leolvasás"
           }
         },
         "it" : {
