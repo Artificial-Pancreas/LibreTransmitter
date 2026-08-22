@@ -3341,8 +3341,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Credentials"
+            "state" : "translated",
+            "value" : "Hitelesítő adatok"
           }
         },
         "it" : {
@@ -5896,7 +5896,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Khả năng hiển thị thông báo Glucose"
+            "value" : "Hiển thị thông báo đường huyết"
           }
         },
         "zh-Hans" : {
@@ -7191,8 +7191,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Latest Reading"
+            "state" : "translated",
+            "value" : "A legújabb leolvasás"
           }
         },
         "it" : {
