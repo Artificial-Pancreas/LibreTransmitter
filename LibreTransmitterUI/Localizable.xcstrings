@@ -635,8 +635,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Activate and finish warming up a new sensor with another app or physical reader."
+            "state" : "translated",
+            "value" : "Activați și finalizați încălzirea unui senzor nou cu o altă aplicație sau cu un cititor fizic."
           }
         },
         "ru" : {
@@ -1045,8 +1045,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Adds a lot of data to the Issue Report "
+            "state" : "translated",
+            "value" : "Adăugați o mulțime de date la Raportul de probleme "
           }
         },
         "ru" : {
@@ -1181,8 +1181,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Adds Transmitter Battery"
+            "state" : "translated",
+            "value" : "Adăugați bateria transmițătorului"
           }
         },
         "ru" : {
@@ -2145,8 +2145,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Backfill from history"
+            "state" : "translated",
+            "value" : "Completare în urmă din istoric"
           }
         },
         "ru" : {
@@ -2282,8 +2282,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Backfill options"
+            "state" : "translated",
+            "value" : "Opțiuni completare în urmă"
           }
         },
         "ru" : {
@@ -2828,8 +2828,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Anulați"
           }
         },
         "ru" : {
@@ -3519,8 +3519,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical alarm volume"
+            "state" : "translated",
+            "value" : "Volum critic alarmă"
           }
         },
         "ru" : {
@@ -4210,8 +4210,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Debug options"
+            "state" : "translated",
+            "value" : "Opțiuni depanare"
           }
         },
         "ru" : {
@@ -4621,8 +4621,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Info"
+            "state" : "translated",
+            "value" : "Informații dispozitiv"
           }
         },
         "ru" : {
@@ -4758,8 +4758,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnect & Continue Setup"
+            "state" : "translated",
+            "value" : "Deconectați & continuați configurarea"
           }
         },
         "ru" : {
@@ -5859,8 +5859,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose Notification visibility"
+            "state" : "translated",
+            "value" : "Vizibilitate notificare glicemie"
           }
         },
         "ru" : {
@@ -8601,8 +8601,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Most libre 1 and libre 2 sensors are supported, except North America Libre 2; see readme.md for details."
+            "state" : "translated",
+            "value" : "Majoritatea senzorilor Libre 1 și Libre 2 sunt acceptați, cu excepția Libre 2 din America de Nord; consultați readme.md pentru detalii."
           }
         },
         "ru" : {
@@ -8738,7 +8738,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configurarea Dispozitiv Nou"
+            "value" : "Configurare Dispozitiv Nou"
           }
         },
         "ru" : {
@@ -9428,8 +9428,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pair Sensor"
+            "state" : "translated",
+            "value" : "Asociați senzor"
           }
         },
         "ru" : {
@@ -9846,8 +9846,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause Glucose alarms"
+            "state" : "translated",
+            "value" : "Întrerupeți alarme glicemie"
           }
         },
         "ru" : {
@@ -10667,7 +10667,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează"
+            "value" : "Salvați"
           }
         },
         "ru" : {
@@ -11213,8 +11213,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor change"
+            "state" : "translated",
+            "value" : "Schimbare senzor"
           }
         },
         "ru" : {
@@ -11895,8 +11895,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor Serial"
+            "state" : "translated",
+            "value" : "Serie senzor"
           }
         },
         "ru" : {
@@ -12169,8 +12169,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor State"
+            "state" : "translated",
+            "value" : "Stare senzor"
           }
         },
         "ru" : {
@@ -12586,8 +12586,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The Bluetooth connection will take up to four minutes before it starts working."
+            "state" : "translated",
+            "value" : "Conexiunea Bluetooth va lua până la patru minute înainte de a începe să funcționeze."
           }
         },
         "ru" : {

@@ -90,8 +90,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not decrypt sensor contents"
+            "state" : "translated",
+            "value" : "Eșec la decripta conținutul senzorului"
           }
         },
         "ru" : {
@@ -227,8 +227,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get patch info"
+            "state" : "translated",
+            "value" : "Eșec la a obține informațiile plasturelui"
           }
         },
         "ru" : {
@@ -364,8 +364,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get sensor data"
+            "state" : "translated",
+            "value" : "Eșec la a obține datele senzorului"
           }
         },
         "ru" : {
@@ -501,8 +501,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get tag info"
+            "state" : "translated",
+            "value" : "Eșec la a obține informațiile etichetei"
           }
         },
         "ru" : {
@@ -918,8 +918,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hold the top of your iPhone near the sensor to pair"
+            "state" : "translated",
+            "value" : "Țineți partea de sus a telefonului lângă senzor pentru a-l conecta"
           }
         },
         "ru" : {
@@ -1617,8 +1617,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Phone NFC not supported!"
+            "state" : "translated",
+            "value" : "Conexiunea NFC a telefonului nu este acceptată!"
           }
         },
         "ru" : {
