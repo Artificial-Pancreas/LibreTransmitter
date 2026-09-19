@@ -91,7 +91,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eșec la decripta conținutul senzorului"
+            "value" : "Eșec la a decripta conținutul senzorului"
           }
         },
         "ru" : {
@@ -228,7 +228,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eșec la a obține informațiile plasturelui"
+            "value" : "Eșec la a obține informațiile pompei"
           }
         },
         "ru" : {
@@ -269,8 +269,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not get patch info"
+            "state" : "translated",
+            "value" : "无法获取贴泵信息"
           }
         }
       }
@@ -688,7 +688,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dexcom远程"
+            "value" : "Dexcom Share"
           }
         }
       }
@@ -1304,6 +1304,18 @@
             "value" : "Richiede attenzione"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注意が必要です"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Krever oppmerksomhet"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1720,6 +1732,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "U"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E"
           }
         },
         "nb-NO" : {
