@@ -4890,7 +4890,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ontkoppel de verbinding met andere apps of apparaten met de sensor via bluetooth."
+            "value" : "Ontkoppel de verbinding met andere apps of apparaten met de sensor via Bluetooth."
           }
         },
         "pl" : {
@@ -7234,7 +7234,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laatste meting"
+            "value" : "Laatst gelezen meting"
           }
         },
         "pl" : {
@@ -8602,7 +8602,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "De meeste Libre 1 en 2 sensoren worden ondersteund, behalve Noord-Amerika Libre 2; zie readme.md voor details."
+            "value" : "De meeste Libre 1 en 2 sensoren worden ondersteund, behalve de Noord-Amerikaanse Libre 2; zie readme.md voor details."
           }
         },
         "pl" : {
@@ -9292,7 +9292,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buiten US"
+            "value" : "Buiten VS"
           }
         },
         "pl" : {
@@ -9710,7 +9710,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paswoord"
+            "value" : "Wachtwoord"
           }
         },
         "pl" : {
@@ -13434,7 +13434,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "US"
+            "value" : "VS"
           }
         },
         "pl" : {
